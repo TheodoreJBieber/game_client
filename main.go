@@ -24,6 +24,8 @@ const sprintSpeed = moveSpeed * 1.5
 const sprintingEnabled = false
 const interpolate = true
 
+// Adding comment to have change to commit
+
 // Idea: Skill trees / level up system and perks
 
 // TODO: only send updates on changed objects
