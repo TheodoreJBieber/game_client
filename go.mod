@@ -17,5 +17,4 @@ require (
 require (
 	github.com/chewxy/math32 v1.10.1
 	github.com/hajimehoshi/ebiten/v2 v2.6.2
-	github.com/klauspost/compress v1.17.2 // indirect
 )
